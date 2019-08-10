@@ -1,4 +1,4 @@
-# Cryptography Project 2: Coding with a Cryptographic Library
+# Project 2: Coding with a Cryptographic Library
 ## Task 1
 The goal of this task was to choose a programming environment and a cryptographic library. I decided to use Python and its associated `cryptography` module for this project since I had some previous knowledge of Python and `cryptography` was easy to implement. I installed the `cryptography` and `gpg` modules, then tested the functionality by writing some simple code that generated a key, encrypted some plaintext, and decrypted the resulting ciphertext.
 
